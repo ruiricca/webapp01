@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cWR42+xosEc=",
+  "success": true,
+  "projectFilePath": "C:\\AWSBraga\\webapp01\\calendario\\calendario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesae\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.0\\microsoft.aspnetcore.app.internal.assets.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
