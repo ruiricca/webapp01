@@ -1,0 +1,7 @@
+C:\AWSBraga\webapp01\calendario\out\calendario.exe
+C:\AWSBraga\webapp01\calendario\out\appsettings.Development.json
+C:\AWSBraga\webapp01\calendario\out\appsettings.json
+C:\AWSBraga\webapp01\calendario\out\calendario.dll
+C:\AWSBraga\webapp01\calendario\out\calendario.runtimeconfig.json
+C:\AWSBraga\webapp01\calendario\out\calendario.pdb
+C:\AWSBraga\webapp01\calendario\out\calendario.deps.json
